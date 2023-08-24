@@ -3,8 +3,8 @@
 
 <h3>Mis proyectos:</h3>
 <table>
-  <tr>
-     <td width="50%" background-color="red">
+  <tr background="red">
+     <td width="50%">
         <h3 align="center">StockWise</h3>
         <div align="center">
           <img src=""> 
