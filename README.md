@@ -4,7 +4,7 @@
 <h3>Mis proyectos:</h3>
 <table>
   <tr>
-     <td width="50%">
+     <td width="50%" background-color="red">
         <h3 align="center">StockWise</h3>
         <div align="center">
           <img src=""> 
