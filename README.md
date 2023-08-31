@@ -13,7 +13,6 @@
           <img src="https://i.ibb.co/Gvjr69g/Stock-Wise.png"> <br>
           <a href="#" target="_BLANK"><img src="https://img.shields.io/badge/-Video-green?style=for-the-badge&color=c2a1ea"></a>
           <p> StockWise es una solución de vanguardia diseñada para simplificar y optimizar la gestión de ventas y operaciones comerciales. Nuestra plataforma integral te permite tener un control completo sobre cada aspecto crucial de tu negocio en un solo lugar. Desde la administración de productos y proveedores hasta el seguimiento de ventas y análisis estadísticos.</p>
-          <h3>Aún en desarrollo...</h3>
         </div>
      </td>
     <td width="50%">
@@ -23,7 +22,6 @@
           <a href="#" target="_BLANK"><img src="https://img.shields.io/badge/-Pagina-green?style=for-the-badge&color=c2a1ea"></a>
           <a href="#" target="_BLANK"><img src="https://img.shields.io/badge/-Codigo-green?style=for-the-badge&color=c2a1ea"></a>
           <p> StockWise es una solución de vanguardia diseñada para simplificar y optimizar la gestión de ventas y operaciones comerciales. Nuestra plataforma integral te permite tener un control completo sobre cada aspecto crucial de tu negocio en un solo lugar. Desde la administración de productos y proveedores hasta el seguimiento de ventas y análisis estadísticos.</p>
-          <h3>Aún en desarrollo...</h3>
         </div>
     </td>
   </tr>
